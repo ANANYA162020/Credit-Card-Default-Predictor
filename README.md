@@ -1,4 +1,4 @@
-# TECHNOLABS-INTERNSHIP-mini-project-
+# credit card default predictor 
 
 i have made a credit card default predictor app which would ask you about some details some past months bill and the ammount you paid in the past months according to which it will give you the probablitiy of the defaulted ammount 
 
